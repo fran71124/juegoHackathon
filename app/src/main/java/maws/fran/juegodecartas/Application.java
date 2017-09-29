@@ -5,4 +5,5 @@ package maws.fran.juegodecartas;
  */
 
 public class Application extends android.app.Application {
+
 }
