@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "101294390213",
-    "firebase_url": "https://project-hackathon-cards.firebaseio.com",
-    "project_id": "project-hackathon-cards",
-    "storage_bucket": "project-hackathon-cards.appspot.com"
+    "project_number": "70294566237",
+    "firebase_url": "https://cartas-8626e.firebaseio.com",
+    "project_id": "cartas-8626e",
+    "storage_bucket": "cartas-8626e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:101294390213:android:51ee1612489e82cb",
+        "mobilesdk_app_id": "1:70294566237:android:12e562f8e22de1f0",
         "android_client_info": {
-          "package_name": "maws.fran.juegodecartas"
+          "package_name": "com.cartas.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "101294390213-as6f8ors3t22fn8gj7svmlhojm0h8ppu.apps.googleusercontent.com",
+          "client_id": "70294566237-06d2pghc97laaqdqvldlpu4fmp61alnq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyABGjH_jHzQGjGWt-8paLzOTlI0kvVJGy0"
+          "current_key": "AIzaSyDWGWYGOnqGQwrfRsnbBkygpmG-CgvkS88"
         }
       ],
       "services": {

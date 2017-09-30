@@ -9,35 +9,35 @@
     tools:context="maws.fran.juegodecartas.identification.Identification">
 
 
-        <EditText
-            android:id="@+id/editText"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="email"
-            android:inputType="textEmailAddress"
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="93dp" />
+    <EditText
+        android:id="@+id/identification_input_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="email"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="93dp" />
 
-        <EditText
-            android:id="@+id/editText2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="password"
-            android:inputType="textPassword" />
+    <EditText
+        android:id="@+id/identification_input_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="textPassword" />
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="217dp"
-            android:layout_height="wrap_content"
-            android:text="Sign up" />
+    <Button
+        android:id="@+id/identification_button_sign_up"
+        android:layout_width="217dp"
+        android:layout_height="wrap_content"
+        android:text="Sign up" />
 
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="217dp"
-            android:layout_height="wrap_content"
-            android:text="Sign in" />
+    <Button
+        android:id="@+id/identification_button_sign_in"
+        android:layout_width="217dp"
+        android:layout_height="wrap_content"
+        android:text="Sign in" />
 
 
 </LinearLayout>
